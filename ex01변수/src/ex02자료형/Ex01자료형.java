@@ -26,7 +26,7 @@ public class Ex01자료형 {
 		
 		
 		// asdf
-		
+		// 안녕하세요
 		
 		
 		
