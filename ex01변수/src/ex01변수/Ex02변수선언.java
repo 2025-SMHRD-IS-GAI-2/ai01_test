@@ -5,7 +5,7 @@ public class Ex02변수선언 {
 	public static void main(String[] args) {
 		// github 완료
 		// push하기 
-		// 안녕하세요
+		// 안녕하세요 허허 왜 안뜸?
 		
 		// 코드 한줄 삭제 ctrl + d
 		// 변수 : 사전적 의미로는 "변할 수 있는 수", 
